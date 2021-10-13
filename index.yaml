@@ -6,11 +6,11 @@ entries:
         - kind: added
           description: Initial official release.
     apiVersion: v2
-    appVersion: 0.9.0
-    created: "2021-08-19T16:41:48.848776558Z"
+    appVersion: 0.10.0
+    created: "2021-10-13T16:25:34.011131028Z"
     description: ExternalDNS synchronizes exposed Kubernetes Services and Ingresses
       with DNS providers.
-    digest: 49b886cb1448fe5a08424a463f35f596639507385a01f6d12312cdc79115adfe
+    digest: 62ce6c1e69c6fe6cec08a7ae63dad3afd4193c50cb58f49786d418730f3e32cb
     home: https://github.com/kubernetes-sigs/external-dns/
     icon: https://github.com/kubernetes-sigs/external-dns/raw/master/img/external-dns.png
     keywords:
@@ -25,6 +25,6 @@ entries:
     - https://github.com/kubernetes-sigs/external-dns/
     type: application
     urls:
-    - https://github.com/kubernetes-sigs/external-dns/releases/download/external-dns-helm-chart-1.2.0/external-dns-1.2.0.tgz
-    version: 1.2.0
-generated: "2021-08-19T16:41:48.848784158Z"
+    - https://github.com/ekmixon/external-dns/releases/download/external-dns-helm-chart-1.3.2/external-dns-1.3.2.tgz
+    version: 1.3.2
+generated: "2021-10-13T16:25:34.011137828Z"
